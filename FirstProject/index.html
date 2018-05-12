@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mosquitos</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+</head>
+<body>
+<svg id="draw_area" width = 2100px height = 1000px style =" border : 1px solid gray; background-color: white" transform="translate(100,50)" >
+</svg>
+
+
+<script src="Utilities.js"></script>
+<script src="Constant.js"></script>
+<script src="Mosquito.js"></script>
+
+<script>
+
+    var mosq = new Mosquito();
+    d3.select("svg").style("cursor", 'pointer');
+
+
+</script>
+
+</body>
+</html>
