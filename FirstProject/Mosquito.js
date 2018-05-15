@@ -93,7 +93,7 @@ class Mosquito{
                 .on("click", (d) => { ((died[index] ==  undefined) ? this._onClick(this.mosquitos.indexOf(d)) : 0);})
                 .transition()
 
-                .duration(function (d) {return index%3 == 1 ? (4500 * Math.random()) : (Math.random() * 15 00 * (index%5 + 1)) })
+                .duration(function (d) {return index%3 == 1 ? (4500 * Math.random()) : (Math.random() * 1500 * (index%5 + 1)) })
                 .attr("transform", (d) => {return  calculatePositionAndAngulation(index) + 'scale(1.5)'})
                 .attr("x", (d) => {return positions[index][0]})
                 .attr("y", (d) => {return positions[index][1]})
