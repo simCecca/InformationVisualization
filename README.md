@@ -1,2 +1,1 @@
-# InformationVisualization
-SEE THE WIKI SECTION
+# SEE THE WIKI SECTION
