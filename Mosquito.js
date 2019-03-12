@@ -76,10 +76,6 @@ class Mosquito{
             .attr("id", (d) => { return ('died' + index);})
             .html((d) => {return this._diedMosquito(index%3 == 1 ? 10 : 30)});
 
-
-        //currentMosquito.select("#body")
-          //  .attr("d", (d) => {return "M80,70 Q20,120 80,120 T80,70";});
-
         SVG.select(`#a${this.mosquitos[index]}`).exit().remove();
 
         this.mosquitos[this.mosquitos.length] = this.mosquitos.length;
