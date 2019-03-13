@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eae7d2a-570a-4d8c-990b-9294532cade6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/FirstProject/Constant.js" beforeDir="false" afterPath="$PROJECT_DIR$/Constant.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Mosquito.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mosquito.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant.js" beforeDir="false" afterPath="$PROJECT_DIR$/Constant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mosquito.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mosquito.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +22,26 @@
       <file leaf-file-name="Mosquito.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mosquito.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+            <state relative-caret-position="304">
+              <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Constant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utilities.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -31,13 +49,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="181">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>positions</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +69,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FirstProject/index.html" />
+        <option value="$PROJECT_DIR$/Constant.js" />
+        <option value="$PROJECT_DIR$/Mosquito.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -56,16 +82,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-9" />
     <option name="y" value="10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,6 +114,11 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cecio\WebstormProjects\InformationVisualization" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,26 +143,28 @@
       <option name="presentableId" value="Default" />
       <updated>1543421130516</updated>
       <workItem from="1543421131793" duration="2553000" />
-      <workItem from="1552413918682" duration="247000" />
+      <workItem from="1552413918682" duration="2475000" />
+      <workItem from="1552423362299" duration="5862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="10890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -150,15 +183,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Mosquito.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+        <state relative-caret-position="1632">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -171,8 +214,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mosquito.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,7 @@ class Mosquito{
     constructor(){
         this.mosquitos = MOSQUITOS;
         this._initMosquito(SVG, this.mosquitos);
+        this.score = 0;
     }
 
     getPositions(){
@@ -81,7 +82,16 @@ class Mosquito{
         this.mosquitos[this.mosquitos.length] = this.mosquitos.length;
 
         this._initMosquito();
+        this.score = this.score + 1;
+        this.updateScores();
+    }
 
+    updateScores(){
+        d3.select("svg").selectAll("text")
+            .attr("x", "5%")
+            .attr("y", "5%")
+            .attr("font-size", () => "35px")
+            .text("Score " + this.score);
     }
 
     move(index){
